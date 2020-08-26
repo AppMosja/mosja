@@ -1,5 +1,8 @@
 <?php
 
-phpinfo();
-
+phpinfo();              
+for(;;)
+{
+    echo 'ff';
+}
 ?>
